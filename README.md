@@ -22,6 +22,8 @@ go build
 
 # 配置yaml文件
 
+需命名为config.yml
+
 ```yaml
 
 Location:
