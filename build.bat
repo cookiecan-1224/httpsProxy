@@ -1,0 +1,1 @@
+env goos=linux  go build -ldflags "-s -w"

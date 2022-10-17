@@ -1,2 +1,0 @@
-# httpsProxy
-https代理

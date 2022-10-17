@@ -1,0 +1,15 @@
+{
+	"name": "George",
+	"addr": "北京",
+	"ScoreList": [
+		{
+			"CourseName": "语文",
+			"Score": 21
+		},
+		{
+			"CourseName": "数学",
+			"Score": 22
+		}
+	],
+	"Num": 2
+}
